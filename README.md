@@ -1,5 +1,6 @@
 # PRODIGY_WD_1
 STOPWATCH WEB APPPLICATION 
+
 /stopwatch-app
 │
 ├── index.html       → Main structure
@@ -7,10 +8,12 @@ STOPWATCH WEB APPPLICATION
 └── script.js        → Stopwatch logic
 
 The Stopwatch Web Application is a user-friendly and interactive tool designed to track elapsed time accurately. It replicates the functionality of a physical stopwatch and enhances it with a clean user interface, responsive design, and additional features like lap timing. This project was developed using HTML, CSS, and JavaScript — making it lightweight, efficient, and easily deployable on any browser without needing extra installations.
+
 🎯 Objectives:
 To build a real-time stopwatch using core web development technologies.
 To implement precise time tracking and interval control using JavaScript.
 To create a responsive and accessible user interface.
+
 🔧 Features:
 Start/Stop Functionality – Begin or pause the timer with a single click.
 Reset Button – Quickly reset the stopwatch to zero.
